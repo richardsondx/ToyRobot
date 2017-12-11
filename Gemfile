@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'byebug'
+ruby '2.4.0'
+
 gem 'mocha'
-gem 'rubocop'

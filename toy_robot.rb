@@ -1,5 +1,4 @@
 require_relative 'table'
-require 'byebug'
 
 # Robot's Class
 class ToyRobot

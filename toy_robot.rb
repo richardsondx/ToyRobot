@@ -65,7 +65,7 @@ class ToyRobot
 
   def turn_left
     @facing = if directions.index(@facing).zero?
-                directions.index(-1)
+                directions[-1]
               else
                 directions[directions.index(@facing) - 1]
               end

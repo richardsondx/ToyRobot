@@ -25,7 +25,7 @@ To learn how to control the robot please follow the instructions bellow
 
   To run the test do:
 
-  `ruby test/toyrobot_test.rb`
+  `ruby test/toy_robot_test.rb`
 
 
 ## TRY IT WITH SAMPLE DATA
